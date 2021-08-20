@@ -10,7 +10,7 @@
 
  * Thème 1 : recherche documentaire
  * Thème 2 : gestion biblbiographique
- * Thèùe 3 : libre accès
+ * Thème 3 : libre accès
 
 ### Modules
 
@@ -29,14 +29,13 @@
 
 ### Module 1.1 : Les fondamentaux de la recherche documentaire : méthode et outils
 
-
 Comment organiser simplement ses recherches bibliographiques pour en optimiser les résultats ?  Comment connaître l'offre documentaire souscrite par les institutions et y accéder rapidement ?  Cette session propose un rappel méthodologique concernant la recherche bibliographique et la typologie des outils de recherche.
 
  * Méthode de la recherche documentaire : du sujet en langage naturel à l'équation de recherche
  * Typologie des outils de recherche documentaire (bases de données, sites d'éditeurs, etc.) et critères de choix
  * Paramétrage des accès Inserm et université de Bordeaux dans un navigateur Internet, Google Scholar, un logiciel de gestion bibliographique (EndNote et Zotero)
 
-[Support de formation au format PDF : "Les fondamentaux de la recherche documentaire : méthode et outils"]()
+[Support de formation au format PDF : "Les fondamentaux de la recherche documentaire : méthode et outils"](https://github.com/fflamerie/formbiblio/blob/main/docs/module1-1_rech_biblio.pdf)
 
 ### Module 1.2 : Trucs et astuces de PubMed
 
@@ -46,7 +45,7 @@ A l'occasion du changement d'interface de PubMed intervenu courant 2020, cette s
  * Rechercher dans PubMed : 3 modes de recherche, de l'automatique au manuel
  * Miscellanées
 
-[Support de formation au format PDF : "Les fondamentaux de la recherche documentaire : méthode et outils"]()
+[Support de formation au format PDF : "Trucs et astuces de PubMed"](https://github.com/fflamerie/formbiblio/blob/main/docs/module1-2_pubmed.pdf)
 
 ### Module 1.3 : Usage des moteurs de recherche pour la recherche documentaire
 
@@ -57,7 +56,7 @@ Google et Google Scholar peuvent-ils être utilisés pour la recherche documenta
  * Biais et limites de Google et Google Scholar
  * Moteurs de recherche complémentaires ou alternatifs
 
-[Support de formation au format PDF : "Les fondamentaux de la recherche documentaire : méthode et outils"]()
+[Support de formation au format PDF : "Usage des moteurs de recherche pour la recherche documentaire"](https://github.com/fflamerie/formbiblio/blob/main/docs/module1-3_moteurs_recherche.pdf)
 
 
 ### Module 2.1 : Gérer sa bibliographie avec Zotero
@@ -72,7 +71,7 @@ Cette session propose une prise en main du logiciel et de ses principales foncti
  * Citer avec les modules Zotero pour Word, LibreOffice et GoogleDocs
  * Comprendre l'environnement de Zotero pour en optimiser et en augmenter l'usage
 
-[Support de formation au format PDF : "Les fondamentaux de la recherche documentaire : méthode et outils"]()
+[Support de formation au format PDF : "Introduction à Zotero, votre assistant de recherche personnel"](https://github.com/fflamerie/zotero_intro_FR/blob/master/content/zotero_intro_FR_distanciel_TRAME.pdf)
 
 ### Module 2.2 : Zotero+ : bibliothèques partagées et synchronisation, réponse aux questions
 
@@ -84,7 +83,7 @@ S'il n'est pas nécessaire de créer un compte Zotero sur zotero.org pour télé
  * Optimiser la gestion des PDF avec le module complémentaire ZotFile
  * Réponse aux questions des utilisateurs
 
-[Support de formation au format PDF : "Les fondamentaux de la recherche documentaire : méthode et outils"]()
+[Support de formation au format PDF : "Zotero+ : bibliothèques partagées et synchronisation, réponse aux questions"](https://github.com/fflamerie/formbiblio/blob/main/docs/module2-2_zotero2.pdf)
 
 
 ### Module 3.1 : Le libre accès en bref : notions clés et modèles de libre accès
@@ -95,7 +94,7 @@ Quelle est la différence entre HAL et ResearchGate ? Que désignent les express
  * Droits, recommandations et obligations en matière de libre accès
  * La voie verte : critères de choix d'une archive ouverte
 
-[Support de formation au format PDF : "Les fondamentaux de la recherche documentaire : méthode et outils"]()
+[Support de formation au format PDF : "Le libre accès en bref : notions clés et modèles de libre accès"](https://github.com/fflamerie/formbiblio/blob/main/docs/module3-1_oa_bref.pdf)
 
 ### Modules 3.2 : Focus sur les revues en libre accès : enjeux économiques, juridiques et éditoriaux
 
@@ -105,7 +104,7 @@ Entre revues dites « _full gold open access_ », « hybrides » ou encore « pr
  * Enjeux juridiques : comment choisir une licence de publication ?
  * Enjeux éditoriaux : quels sont les modèles éditoriaux des revues en libre accès ? comment évaluer la qualité d'une revue en libre accès ?
 
-[Support de formation au format PDF : "Les fondamentaux de la recherche documentaire : méthode et outils"]()
+[Support de formation au format PDF : "Focus sur les revues en libre accès : enjeux économiques, juridiques et éditoriaux"](https://github.com/fflamerie/formbiblio/blob/main/docs/module3-2_oa_revues.pdf)
 
 ### Module 3.3 : Déposer un article dans l'archive ouverte de l'université de Bordeaux : Oskar Bordeaux
 
@@ -114,7 +113,7 @@ Au cours de cette session pratique, l'équipe d'[Oskar Bordeaux](https://oskar-b
  * Présentation de l’outil et des fonctionnalités d’OSKAR Bordeaux
  * Effectuer un dépôt dans Oskar Bordeaux
 
-[Support de formation au format PDF : "Les fondamentaux de la recherche documentaire : méthode et outils"]()
+[Support de formation au format PDF : "Déposer un article dans l'archive ouverte de l'université de Bordeaux : Oskar Bordeaux"](https://github.com/fflamerie/formbiblio/blob/main/docs/module3-3_oskar.pdf)
 
 ### Module 3.4 : Zenodo, Figshare, etc.: rechercher et partager des données de recherche grâce aux entrepôts de données
 
@@ -124,4 +123,4 @@ La mise à disposition des données associées aux articles ou données sous-jac
  * Trouver un entrepôt de données généraliste
  * Trouver une entrepôt de données spécialisé
 
-[Support de formation au format PDF : "Les fondamentaux de la recherche documentaire : méthode et outils"]()
+[Support de formation au format PDF : "Zenodo, Figshare, etc.: rechercher et partager des données de recherche grâce aux entrepôts de données"](https://github.com/fflamerie/formbiblio/blob/main/docs/module3-4_oa_zenodo.pdf)
