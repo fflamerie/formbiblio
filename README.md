@@ -88,7 +88,7 @@ S'il n'est pas nécessaire de créer un compte Zotero sur zotero.org pour télé
 
 ### Module 3.1 : Le libre accès en bref : notions clés et modèles de libre accès
 
-Quelle est la différence entre HAL et ResearchGate ? Que désignent les expressions _green_ et _gold__open access_ (et leurs dérivés _bronze_, _diamond_, etc.) ? Qu'est-ce qui est permis / recommandé / obligatoire en matière de libre accès ? Comment répondre aux obligations de libre accès des agences de financement ? Cette session vous propose de répondre à ces interrogations en explorant les différents modèles de libre accès.
+Quelle est la différence entre HAL et ResearchGate ? Que désignent les expressions _green_ et _gold open access_ (et leurs dérivés _bronze_, _diamond_, etc.) ? Qu'est-ce qui est permis / recommandé / obligatoire en matière de libre accès ? Comment répondre aux obligations de libre accès des agences de financement ? Cette session vous propose de répondre à ces interrogations en explorant les différents modèles de libre accès.
 
  * Les modèles de libre accès : définitions et exemples
  * Droits, recommandations et obligations en matière de libre accès
