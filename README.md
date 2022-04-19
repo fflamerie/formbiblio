@@ -71,7 +71,7 @@ Cette session propose une prise en main du logiciel et de ses principales foncti
  * Citer avec les modules Zotero pour Word, LibreOffice et GoogleDocs
  * Comprendre l'environnement de Zotero pour en optimiser et en augmenter l'usage
 
-[Support de formation au format PDF : "Introduction à Zotero, votre assistant de recherche personnel"](https://github.com/fflamerie/zotero_intro_FR/blob/master/content/zotero_intro_FR_distanciel_TRAME.pdf)
+Support de formation : ["Gérer facilement sa bibliographie avec Zotero" au format HTML](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/gerer_biblio_zotero_COURS.md) et ["Gérer facilement sa bibliographie avec Zotero" au format PDF](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/gerer_biblio_zotero_COURS.pdf)
 
 ### Module 2.2 : Zotero+ : bibliothèques partagées et synchronisation, réponse aux questions
 
