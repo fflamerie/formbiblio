@@ -9,7 +9,7 @@
 ### Thèmes
 
  * Thème 1 : recherche documentaire
- * Thème 2 : gestion biblbiographique
+ * Thème 2 : gestion bibliographique
  * Thème 3 : libre accès
 
 ### Modules
