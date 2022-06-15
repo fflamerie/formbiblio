@@ -33,7 +33,7 @@ Comment organiser simplement ses recherches bibliographiques pour en optimiser l
 
  * Méthode de la recherche documentaire : du sujet en langage naturel à l'équation de recherche
  * Typologie des outils de recherche documentaire (bases de données, sites d'éditeurs, etc.) et critères de choix
- * Paramétrage des accès Inserm et université de Bordeaux dans un navigateur Internet, Google Scholar, un logiciel de gestion bibliographique (EndNote et Zotero)
+ * Paramétrage des accès Inserm et université de Bordeaux dans un navigateur Internet, Google Scholar, un logiciel de gestion bibliographique, et alternatives légales à ces accès
 
 [Support de formation au format PDF : "Les fondamentaux de la recherche documentaire : méthode et outils"](https://github.com/fflamerie/formbiblio/blob/main/docs/module1-1_rech_biblio.pdf)
 
