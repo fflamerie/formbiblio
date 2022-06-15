@@ -108,10 +108,14 @@ Entre revues dites « _full gold open access_ », « hybrides » ou encore « pr
 
 ### Module 3.3 : Déposer un article dans l'archive ouverte de l'université de Bordeaux : Oskar Bordeaux
 
-Au cours de cette session pratique, l'équipe d'[Oskar Bordeaux](https://oskar-bordeaux.fr/) vous montre comment effectuer un dépôt en texte intégral dans Oskar Bordeaux et vous accompagne pour effectuer un dépôt.
+Au cours de cette session pratique animée avec l’équipe d’[Oskar Bordeaux](https://oskar-bordeaux.fr/), nous vous présentons les fonctionnalités d’Oskar et effectuons la démonstration d’un dépôt.
 
- * Présentation de l’outil et des fonctionnalités d’OSKAR Bordeaux
- * Effectuer un dépôt dans Oskar Bordeaux
+ * Interface et fonctionnalités d’Oskar Bordeaux
+ * Rappel sur les droits de dépôt en archive ouverte
+ * Qu’avez-vous le droit de déposer ? Versions d’article
+ * Qu’avez-vous le droit de déposer ? Embargo
+ * Options de dépôt dans Oskar Bordeaux au BPH
+ * Démonstration du dépôt d’un article en texte intégral dans Oskar Bordeaux
 
 [Support de formation au format PDF : "Déposer un article dans l'archive ouverte de l'université de Bordeaux : Oskar Bordeaux"](https://github.com/fflamerie/formbiblio/blob/main/docs/module3-3_oskar.pdf)
 
