@@ -33,13 +33,13 @@ Comment organiser simplement ses recherches bibliographiques pour en optimiser l
 
  * Méthode de la recherche documentaire : du sujet en langage naturel à l'équation de recherche
  * Typologie des outils de recherche documentaire (bases de données, sites d'éditeurs, etc.) et critères de choix
- * Paramétrage des accès Inserm et université de Bordeaux dans un navigateur Internet, Google Scholar, un logiciel de gestion bibliographique, et alternatives légales à ces accès
+ * Paramétrage des accès Inserm et université de Bordeaux dans un navigateur Internet, dans un logiciel de gestion bibliographique (EndNote et Zotero), et alternatives légales lorsque ces accès font défaut 
 
 [Support de formation au format PDF : "Les fondamentaux de la recherche documentaire : méthode et outils"](https://github.com/fflamerie/formbiblio/blob/main/docs/module1-1_rech_biblio.pdf)
 
 ### Module 1.2 : Trucs et astuces de PubMed
 
-A l'occasion du changement d'interface de PubMed intervenu courant 2020, cette session propose une présentation des modes de recherche dans PubMed, des fonctionnalités de l'interface et des principales nouveautés introduites en 2020.
+Cette session propose un panorama des modes de recherche dans PubMed, des fonctionnalités de l’interface et des principales nouveautés introduites depuis la nouvelle version majeure de PubMed en 2020. Des outils tiers tels que Yale Mesh Analyzer sont également présentés.
 
  * Les spécificités de PubMed: couverture et fonctionnalités
  * Rechercher dans PubMed : 3 modes de recherche, de l'automatique au manuel
@@ -54,7 +54,7 @@ Google et Google Scholar peuvent-ils être utilisés pour la recherche documenta
 
  * Optimiser l'usage de Google et Google Scholar
  * Biais et limites de Google et Google Scholar
- * Moteurs de recherche complémentaires ou alternatifs
+ * Moteurs de recherche complémentaires ou alternatifs : BASE - Bielefeld Academic Search Engine et CORE
 
 [Support de formation au format PDF : "Usage des moteurs de recherche pour la recherche documentaire"](https://github.com/fflamerie/formbiblio/blob/main/docs/module1-3_moteurs_recherche.pdf)
 
