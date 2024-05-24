@@ -20,9 +20,9 @@
  * Module 2.1 : Gérer sa bibliographie avec Zotero 
  * Module 2.2 : Zotero+ : bibliothèques partagées et synchronisation, réponse aux questions des utilisateurs
  * Module 3.1 : Le libre accès en bref : notions clés et modèles de libre accès 
- * Modules 3.2 : Focus sur les revues en libre accès : enjeux économiques, juridiques et éditoriaux 
- * Module 3.3 : Déposer un article dans l'archive ouverte de l'université de Bordeaux : Oskar Bordeaux 
- * Module 3.4 : Zenodo, Figshare, etc.: rechercher et partager des données de recherche grâce aux entrepôts de données 
+ * Modules 3.2 : Focus sur les revues en libre accès : enjeux économiques, juridiques et éditoriaux - **dernière mise à jour en 2022**
+ * Module 3.3 : Déposer un article dans l'archive ouverte de l'université de Bordeaux : Oskar Bordeaux - **dernière mise à jour en 2022**
+ * Module 3.4 : Zenodo, Figshare, etc.: rechercher et partager des données de recherche grâce aux entrepôts de données - **dernière mise à jour en 2022**
 
 
 ## Descriptifs et supports de formation
@@ -33,7 +33,7 @@ Comment organiser simplement ses recherches bibliographiques pour en optimiser l
 
  * Méthode de la recherche documentaire : du sujet en langage naturel à l'équation de recherche
  * Typologie des outils de recherche documentaire (bases de données, sites d'éditeurs, etc.) et critères de choix
- * Paramétrage des accès Inserm et université de Bordeaux dans un navigateur Internet, dans un logiciel de gestion bibliographique (EndNote et Zotero), et alternatives légales lorsque ces accès font défaut 
+ * Paramétrage des accès Inserm et université de Bordeaux dans un navigateur Internet avec l’extension Click&Read, dans un logiciel de gestion bibliographique, et alternatives légales à ces accès 
 
 [Support de formation au format PDF : "Les fondamentaux de la recherche documentaire : méthode et outils"](https://github.com/fflamerie/formbiblio/blob/main/docs/module1-1_rech_biblio.pdf)
 
@@ -50,7 +50,6 @@ Cette session propose un panorama des modes de recherche dans PubMed, des foncti
 ### Module 1.3 : Usage des moteurs de recherche pour la recherche documentaire
 
 Google et Google Scholar peuvent-ils être utilisés pour la recherche documentaire? Pour quel usage ? Cette session propose une présentation pratique et critique de ces 2 moteurs de recherche, ainsi que des alternatives académiques non commerciales, offrant de meilleures garanties de transparence.
-
 
  * Optimiser l'usage de Google et Google Scholar
  * Biais et limites de Google et Google Scholar
@@ -90,13 +89,17 @@ S'il n'est pas nécessaire de créer un compte Zotero sur zotero.org pour télé
 
 Quelle est la différence entre HAL et ResearchGate ? Que désignent les expressions _green_ et _gold open access_ (et leurs dérivés _bronze_, _diamond_, etc.) ? Qu'est-ce qui est permis / recommandé / obligatoire en matière de libre accès ? Comment répondre aux obligations de libre accès des agences de financement ? Cette session vous propose de répondre à ces interrogations en explorant les différents modèles de libre accès.
 
- * Les modèles de libre accès : définitions et exemples
- * Droits, recommandations et obligations en matière de libre accès
- * La voie verte : critères de choix d'une archive ouverte
+ * Focus sur les différents modes de publication en libre accès
+   * Les revues en libre accès : gold, diamant, hybride, etc.
+   * Les archives ouvertes : HAL, Oskar, etc.
+   * Les prépublications
+* Focus sur les exigences des agences de financement de la recherche (ANR, Union européenne, etc.)
 
 [Support de formation au format PDF : "Le libre accès en bref : notions clés et modèles de libre accès"](https://github.com/fflamerie/formbiblio/blob/main/docs/module3-1_oa_bref.pdf)
 
-### Modules 3.2 : Focus sur les revues en libre accès : enjeux économiques, juridiques et éditoriaux
+### Modules 3.2 : Focus sur les revues en libre accès : enjeux économiques, juridiques et éditoriaux 
+
+**[dernière mise à jour en 2022]**
 
 Entre revues dites « _full gold open access_ », « hybrides » ou encore « prédatrices », le paysage des revues scientifiques se voit à la fois enrichi et complexifié avec le développement de la publication en libre accès. Cette session propose d'éclairer les enjeux économiques, juridiques et éditoriaux des revues en libre accès.
 
@@ -107,6 +110,8 @@ Entre revues dites « _full gold open access_ », « hybrides » ou encore « pr
 [Support de formation au format PDF : "Focus sur les revues en libre accès : enjeux économiques, juridiques et éditoriaux"](https://github.com/fflamerie/formbiblio/blob/main/docs/module3-2_oa_revues.pdf)
 
 ### Module 3.3 : Déposer un article dans l'archive ouverte de l'université de Bordeaux : Oskar Bordeaux
+
+**[dernière mise à jour en 2022]**
 
 Au cours de cette session pratique animée avec l’équipe d’[Oskar Bordeaux](https://oskar-bordeaux.fr/), nous vous présentons les fonctionnalités d’Oskar et effectuons la démonstration d’un dépôt.
 
@@ -120,6 +125,8 @@ Au cours de cette session pratique animée avec l’équipe d’[Oskar Bordeaux]
 [Support de formation au format PDF : "Déposer un article dans l'archive ouverte de l'université de Bordeaux : Oskar Bordeaux"](https://github.com/fflamerie/formbiblio/blob/main/docs/module3-3_oskar.pdf)
 
 ### Module 3.4 : Zenodo, Figshare, etc.: rechercher et partager des données de recherche grâce aux entrepôts de données
+
+**[dernière mise à jour en 2022]**
 
 La mise à disposition des données associées aux articles ou données sous-jacentes (_underlying data_) est une demande croissante de la part des éditeurs et des agences de financement. Les entrepôts de données permettent de répondre à ces exigences, en assurant l'accessibilité, l'archivage et/ou la diffusion des données déposées, en conformité avec les principes FAIR. Cette session présente les différents types d'entrepôts de données et des recommandations pour identifier un entrepôt adapté.
 
